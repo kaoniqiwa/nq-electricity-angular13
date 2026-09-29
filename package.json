@@ -1,5 +1,5 @@
 {
-  "name": "eletricity-service-net",
+  "name": "@kaoniqiwa/eletricity-service-net",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
